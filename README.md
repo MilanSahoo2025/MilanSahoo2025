@@ -1,11 +1,28 @@
-# 💫 Hi 👋, I'm Milan Sahoo
-**|| Android & Web developer  ||**
+<h1 align="center">Hi , I'm Milan Sahoo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=ANDROID,WEB+Developer;Love+To+Solve+DSA+Problems;Solved+(500%2B)+Questions+on+Leetcode;Always+learning+new+things">
+  </a>
+</p>
+
+<br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+
+<br><br>
+- :technologist: Android&Web Developer.
+- :boom: Finding solution for a `Problem` gives me peace.
+- :computer: I also love to solve DSA problems at `Leetcode (350+)`.
+- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :thinking: I’m currently open for a new `job opportunity`.
+<br>
 
 Email Me 👉 ✉️ **sahoomilan2020@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:** Android application
-- 🌱 **I’m currently learning:** AI
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 - ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MilanSahoo2025&theme=radical&no-frame=false&no-bg=true&margin-w=4)
