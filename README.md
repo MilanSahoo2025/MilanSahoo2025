@@ -16,7 +16,7 @@
 <br><br>
 - :technologist: Android&Web Developer.
 - :boom: Finding solution for a `Problem` gives me peace.
-- :computer: I also love to solve DSA problems at `Leetcode (350+)`.
+- :computer: I also love to solve DSA problems at `Leetcode (500+)`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`.
@@ -28,7 +28,7 @@ Email Me 👉 ✉️ **sahoomilan2020@gmail.com** For Collaboration/Project or A
 ![](https://github-profile-trophy.vercel.app/?username=MilanSahoo2025&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/milan.sahoo.35728) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milansahoo2020) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/01milansahoo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Milansa97938925) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahoomilan2020@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/milan.sahoo.35728) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/milansahoo2020) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/milansahoo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Milansa97938925) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahoomilan2020@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
